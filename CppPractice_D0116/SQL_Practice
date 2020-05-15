@@ -44,8 +44,8 @@ CREATE TABLE dept
 	last_name VARCHAR(30),
 	first_name VARCHAR(30)
 );
-
-MySQL
+ 
+MySQL-
 ALTER TABLE customer ADD PRIMARY KEY (sid);
 
 Oracle
